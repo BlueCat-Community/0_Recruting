@@ -20,14 +20,14 @@ __Blue Cat__ 은 가천대학교 소프트웨어학과 공식 오픈소스 커�
 ```xml
 - 이름:
 - 학년:
-- 모집분야:
+- 참가분야:
 ```
 
 ## License
 ```xml
 The MIT License (MIT)
 
-Copyright (c) 2019 BlueCat
+Copyright (c) 2019 BlueCat Community
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
